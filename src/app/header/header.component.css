@@ -1,0 +1,28 @@
+.header{
+    padding: 5px 20px;
+    background: rgb(65, 225, 185);
+  }
+  
+  .title{
+    color: rgb(255, 240, 250);
+    text-decoration: none;
+  }
+  
+  .login,.register{
+    float: right;
+    text-decoration: none;
+    color: aliceblue;
+    padding-top: 10px;
+  }
+  
+  .logout,.new-post{
+    float: right;
+    color: aliceblue;
+    padding-top: 10px;
+  }
+  
+  .logout:hover, .new-post:hover{
+    color: aliceblue;
+    text-decoration: none;
+  }
+  
